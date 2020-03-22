@@ -1,0 +1,12 @@
+this file have 102 characters, 23wc. words
+{
+and 4 lines；//
+}
+
+//this file have 3 blank lines
+
+/*
+5 comment lines
+*/
+
+4 wlines of code
