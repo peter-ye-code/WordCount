@@ -1,6 +1,6 @@
-this file have 102 characters, 23wc. words
+this file have 104 characters, 23 words
 {
-and 4 lines；//
+and 12 lines；//
 }
 
 //this file have 3 blank lines
@@ -9,4 +9,4 @@ and 4 lines；//
 5 comment lines
 */
 
-4 wlines of code
+4 lines of code
